@@ -1,0 +1,27 @@
+title: The HERMESLITE2 OOT Module
+version: 1.0
+brief: Source and sink blocks for the Hermes-Lite 2 SDR
+tags: # Tags are arbitrary, but look at CGRAN what other authors are using
+  - sdr
+  - hermeslite2
+  - hpsdr
+  - openhpsdr
+author:
+  - Daniel Estevez <daniel@destevez.net>
+  - Tom McDermott N5EG
+copyright_owner:
+  - Daniel Estevez
+  - Tom McDermott
+license: GPL-3.0-or-later
+gr_supported_version:
+  - 3.7
+  - 3.8
+  - 3.9
+  - 3.10
+repo: https://github.com/daniestevez/gr-hermeslite2
+website: https://github.com/daniestevez/gr-hermeslite2
+#icon: # Put a URL to a square image here that will be used as an icon
+description: |-
+  This module is a fork of gr-hpsdr that specialises in supporting
+  some features specific to the Hermes Lite 2
+file_format: 1
